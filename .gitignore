@@ -276,3 +276,8 @@ TSWLatexianTemp*
 *.lpz
 
 .ipynb_checkpoints/*
+
+.DS_Store
+
+*.pdf
+*.html
