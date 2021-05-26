@@ -14,4 +14,4 @@ dependencies:
   - pandas
   - sympy
   - seaborn
-j - opencv
+  - opencv
