@@ -9,11 +9,7 @@ dependencies:
   - ipywidgets
   - numpy
   - matplotlib
-  - mpi4py
-  - networkx
   - pandas
   - sympy
   - seaborn
-  - pip
-  - pip:
-    - opencv-python
+  - opencv
