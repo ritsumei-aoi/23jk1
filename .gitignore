@@ -284,3 +284,7 @@ TSWLatexianTemp*
 .vscode/*
 
 node_modules
+
+# for class
+
+temp/*
